@@ -1,0 +1,2 @@
+com/example/acm431_homework2_diceroll_2p/BuildConfig.java
+ com.example.acm431_homework2_diceroll_2p.BuildConfig
